@@ -1,9 +1,44 @@
-<h1 align="center">Hi 👋, I'm Albert</h1>
-<h3 align="center">A passionate Full Stack Developer from Barcelona, Spain</h3>
+<h1 align="center">Hi, I'm Albert 👋</h1>
 
-- 🔭 I’m currently working on [InterviewKit](https://interviewkit.dev/)
+<p align="center">
+  <b>Junior Full Stack Developer</b> · Java / Spring Boot · TypeScript / React<br>
+  📍 Barcelona · Open to my first full-time role (hybrid or remote)
+</p>
 
-- 📫 How to reach me **albertsp.dev@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/albertsp-dev/"><img src="https://img.shields.io/badge/LinkedIn-albertsp--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:albertsp.dev@gmail.com"><img src="https://img.shields.io/badge/Email-albertsp.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=for-the-badge" alt="Open to work">
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I build and deploy full stack apps, and I care about the parts that break in production: authentication, sessions, queries and deployment.
+
+## 🛠️ Tech stack
+
+**Backend**
+
+![Java](https://skillicons.dev/icons?i=java,spring,py,flask&theme=dark)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,vite&theme=dark)
+
+**Data & DevOps**
+
+![DevOps](https://skillicons.dev/icons?i=postgres,docker,git,githubactions,vercel,linux&theme=dark)
+![Fly.io](https://img.shields.io/badge/Fly.io-7B3FE4?style=flat&logo=flydotio&logoColor=white)
+
+## 🚀 Featured projects
+
+| | Project | Stack |
+|---|---|---|
+| 🗺️ | **[TripSync](https://github.com/albertsp/trip-sync)** — group trip planner: everyone marks free days, you get a heatmap of the best dates. No account needed to join. [Live demo](https://trip-sync-app-theta.vercel.app) | Java 21 · Spring Boot · Spring Security (Google OAuth2, CSRF) · React · TypeScript · PostgreSQL · Docker |
+| 🎯 | **[InterviewKit](https://github.com/albertsp/interviewkit)** — practice technical interviews with AI-generated code questions, instant feedback and study cards. [Live demo](https://interviewkit.dev) | Next.js · React · Flask · PostgreSQL · OAuth 2.0 · Docker |
+
+## 🧩 Problems I've solved
+- **CSRF with a React SPA:** Spring Security's default token handler returned `403` on every POST. Fixed with `CsrfTokenRequestAttributeHandler` and a dedicated `/api/csrf` endpoint.
+- **Cross-domain session cookies:** solved `SameSite`/`Secure` and CORS issues with a reverse proxy on Vercel in front of the API on Fly.io.
+- **N+1 queries:** found by inspecting the SQLAlchemy queries and fixed with a `JOIN` and foreign-key indexes.
+
+## 🌍 Languages
+Catalan and Spanish (native) · English (advanced) · German (basic)
